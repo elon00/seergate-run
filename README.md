@@ -1,31 +1,20 @@
-﻿# Seergate Run (ticker)
-> Autonomous Production-Grade Protocol
+﻿# seergate-run (ticker)
 
-[![CI/CD Pipeline](https://github.com/elon00/seergate-run/actions/workflows/ci-cd-pipeline.yml/badge.svg)](https://github.com/elon00/seergate-run/actions)
-[![Score](https://img.shields.io/badge/Reality%20Gates-100%2F100%20GENUINE%20GREEN-2ea44f?style=flat-square)](#reality-check-verification)
-[![NIST PQC](https://img.shields.io/badge/Security-NIST%20FIPS%20203%20%26%20204-blue?style=flat-square)](#security)
-[![Verified](https://img.shields.io/badge/Status-100%25%20Verified-gold?style=flat-square)](#pillars)
+# seergate-run
 
----
-
-## About Seergate Run
-**Seergate Run (\ticker)** is an autonomous, decentralized, post-quantum intelligence protocol engineered for production-grade operational efficiency and cryptographic trust.
+> **Category**: Sovereign Data Oracles & Reality Feeds
+> **Family**: oracle-reality-gates | **Role**: engine
+> **Scope**: Oracle Multi-Feed Reality Gate Suite
+> **Canonical ID**: seergate-run
 
 ---
 
-## Running the Protocol Locally
+## Architecture & Reality Gates
+Part of the sovereign **seergate-run** ecosystem. Enforces zero-knowledge state invariants and post-quantum cryptographic security (NIST FIPS 203/204/205).
 
-### 1. Execute Reality Check Harness (Python)
-``bash
-python tests/reality_check_harness.py
-``
+## Role: ENGINE
+- Component scope: Oracle Multi-Feed Reality Gate Suite
+- Reality Gate invariant verification ready
 
-### 2. Run the High-Performance Rust State Engine
-``bash
-cargo run
-``
-
----
-
-## Reality Check Verification
-Seergate Run enforces strict pre-deployment verification: all invariants, cryptographic proofs, and micro-escrow contracts must achieve a **100/100 Genuine Green** rating before mainnet settlement.
+## License
+Apache-2.0 / MIT Dual License
